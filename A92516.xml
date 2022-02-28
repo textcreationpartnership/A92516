@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act prorogating the monethly maintenance for five moneths, viz. from the first of March 1648. to the first of August, 1648</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92516</idno>
+            <idno type="STC">Wing S1153</idno>
+            <idno type="STC">ESTC R229972</idno>
+            <idno type="EEBO-CITATION">99895754</idno>
+            <idno type="PROQUEST">99895754</idno>
+            <idno type="VID">153307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act prorogating the monethly maintenance for five moneths, viz. from the first of March 1648. to the first of August, 1648</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the Kings most excellent Majestie,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Taxation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153307:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>ACT Prorogating the MONETHLY MAINTENANCE FOR FIVE MONETHS, <hi>VIZ.</hi> From the firſt of <hi>March</hi> 1648. to the firſt of <hi>Auguſt,</hi> 1648.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:153307:2"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="3" facs="tcp:153307:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>Edinburgh 9. Maii 1648.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Eſtates of Parliament conſidering the dangers now threatning Re<g ref="char:EOLhyphen"/>ligion, the Covenant, the Kings Majeſty and the Peace of thir King<g ref="char:EOLhyphen"/>doms, and that they are thereby neceſſitat to keep up the Forces within this Kingdom, and to pro<g ref="char:EOLhyphen"/>vide for their entertainment: Have therefore thought fit to prorogate and continue the Monethly mainte<g ref="char:EOLhyphen"/>nance in that ſame proportion it was firſt laid on, and that for the ſpace of five moneths, <hi>viz.</hi> from the firſt day of <hi>March</hi> laſt, to the firſt day of <hi>Auguſt</hi> next to come: And therefore Statutes and Ordains that ilk Shire and Burgh within this Kingdom, are and ſhall be lyable and obliged in payment of the parti<g ref="char:EOLhyphen"/>cular ſums of money underwritten, for each of the five moneths maintenance abovementioned, at the times and with the exceptions after ſpecified: And Ordains the ſame to be paid in to Sir <hi>John Weems</hi> of <hi>Bogie</hi> Theſaurer of the Army, and collector Generall
+<pb n="4" facs="tcp:153307:3"/>
+               <!-- PDF PAGE 94 -->of the ſaid maintenance, or his deputies and ſub-col<g ref="char:EOLhyphen"/>lectors appointed by him for receiving thereof at the termes following, <hi>viz.</hi> The firſt three moneths of <hi>March, Aprill</hi> and <hi>May,</hi> betwixt, and the laſt day of <hi>May</hi> and the other two moneths of <hi>June</hi> and <hi>July,</hi> betwixt and the fifteenth day of <hi>July</hi> next to come: And in the payment hereof, the Eſtates Ordains the haill quarterings, and any payment of maintenance ſince the firſt of <hi>March</hi> laſt to the firſt day of <hi>Auguſt</hi> next to come, to be allowed, and retained, and diſcom<g ref="char:EOLhyphen"/>pted to them by the Generall Commiſſary, or his debuties, ſub-collectors to be charged upon the ac<g ref="char:EOLhyphen"/>compts of the Armie, the ſame being proven and in<g ref="char:EOLhyphen"/>ſtructed, according to the act of quarterings of the 22. day of <hi>February,</hi> 1645. And that the ſumes to be paid by the ſeverall Shires and Burroughs be as follows, <hi>viz.</hi> The Sheriffdom of <hi>Orkney</hi> of moneth<g ref="char:EOLhyphen"/>ly pay 1143 l. <hi>Innernes</hi> 4176. l. <hi>Caithnes</hi> 945. l. <hi>Cro<g ref="char:EOLhyphen"/>martie</hi> 99. l. <hi>Sutherland</hi> 423. l. <hi>Nairn</hi> 315. l. <hi>Elgine</hi> 1890. l. <hi>Aberdeen</hi> 6543. l. <hi>Bamff</hi> 1431. l. <hi>Kincar<g ref="char:EOLhyphen"/>dine</hi> 1566. l. <hi>Forfar</hi> 5004. l. <hi>Pearth h</hi> 8001. l. <hi>Fyfe</hi> 6642. l. <hi>Stirling</hi> 2538. l. <hi>Kinroſſe</hi> 144 l. <hi>Clackmannan</hi> 522. l. <hi>Edinburgh</hi> 4167. l. <hi>Linlithgow</hi> 1746. l. <hi>Hading<g ref="char:EOLhyphen"/>toune</hi> 3384. l. <hi>Bervick</hi> 3555. l. <hi>Roxburgh.</hi> 5778. l. <hi>Sel<g ref="char:EOLhyphen"/>kirk</hi> 1278. l. <hi>Peebls</hi> 1638. l. <hi>Lanerk</hi> 5382. l. <hi>Air</hi> 6066. l. <hi>Wigtoune</hi> and <hi>Stuartrice</hi> of <hi>Kirkcudbright</hi> 4374. l. <hi>Drumfreis</hi> 4446. l. <hi>Renfrew</hi> 2205. l. <hi>Dumbartan</hi> 1233. l. <hi>Argyle</hi> 2907. l. <hi>Bute</hi> 459. l.</p>
+            <p>Follows the ſumes payable monethly, by the Bur<g ref="char:EOLhyphen"/>rows conform to their taxt Roll, <hi>viz. Edinburgh</hi> 5175. l. <hi>Pearth</hi> 810. l. <hi>Dundie</hi> 1200. l. <hi>Aberdeen</hi> 1260. l. <hi>Stirling</hi> 240. l. <hi>Linlithgow</hi> 324. l. <hi>Standrois</hi>
+               <pb n="5" facs="tcp:153307:3"/>
+               <!-- PDF PAGE 94 -->780. l. <hi>Glaſgow</hi> 1530. l. <hi>Air</hi> 342. l. <hi>Hadingtoune</hi> 324. l. <hi>Dyſert</hi> 270. l. <hi>Kirkcaldie</hi> 600. l. <hi>Monroſſe</hi> 324. l. <hi>Couper</hi> 216. l. <hi>Auſtruther</hi> eiſter 180 l. <hi>Drumfreis</hi> 270. l. <hi>Innernes</hi> 450. l. <hi>Breichen</hi> 120. l. <hi>Irwing</hi> 252. l. <hi>Elgine</hi> 135. l. <hi>Jed<g ref="char:EOLhyphen"/>burgh</hi> 126. l. <hi>Kirkcudbright</hi> 180 l. <hi>Wigtoun</hi> 135. l. <hi>Pet<g ref="char:EOLhyphen"/>tenweyme</hi> 120. l. <hi>Dumfermling</hi> 162. l. <hi>Dumbartan</hi> 162. l. <hi>Renfrew</hi> 90. l. <hi>Lanerk</hi> 162. l. <hi>Aberbrothok</hi> 81. l. <hi>Brunt<g ref="char:EOLhyphen"/>iland</hi> 216. l. <hi>Peibles</hi> 108. l. <hi>Craill</hi> 216. l. <hi>Kinghorn</hi> 108. l. <hi>Tayne</hi> 90. l. <hi>Selkirk</hi> 126. l. <hi>Auſtruther</hi> weſtir 54. l. <hi>Culroſs</hi> 90. l. <hi>Dumbar</hi> 180. l. <hi>Bamff</hi> 72. l. <hi>Whithorne</hi> 45. l. <hi>Forfar</hi> 27. l. <hi>Rotheſay</hi> 60. l. <hi>Forres</hi> 54. l. <hi>Rutherglen</hi> 45. l. <hi>Northvervick</hi> 36. l. <hi>Collein</hi> 27. l. <hi>Nairne</hi> 36. l. <hi>Lawder</hi> 45. l. <hi>Innerkeithing</hi> 90. l. <hi>Kilrynnie</hi> 27. l. <hi>Annan</hi> 30. l. <hi>Lochmaben</hi> 18. l. <hi>Sanquhar</hi> 27. l. <hi>Gallaway</hi> 18. l. <hi>Dinguall</hi> 18. l. <hi>Cudenſferrie</hi> 108. l. <hi>Dornoch</hi> 18. l.</p>
+            <p>For the better inbringing and collecting thereof; The Eſtates of Parliament appoints Sir <hi>John Weems</hi> of <hi>Bogie,</hi> with power to him to appoint deputis, ane or moe in each Shire and Pariſh in maner conteaned in the Act for the Tax and Loan, which collectors, de<g ref="char:EOLhyphen"/>puties of Shires, and Pariſhes, and Clerkes of Shires, ſhall have ſuch fees as is allowed in that Act for the loan and taxt, Ilks are to be uplifted out of the Shires and Pariſhes, beſides the five moneths maintenance, But that the Burghs be free of all payment of the foreſaids fees, inregard they collect their proportions upon their own charges: And alſo with power to him to nominate a Clerk to this maintenance, who is to have the ſame fee for thir five moneths propor<g ref="char:EOLhyphen"/>tionable, as was allowed by Parliament for the laſt nine moneths. And the Eſtates Ordains, that the letters and charges to follow upon this Act, for
+<pb n="6" facs="tcp:153307:4"/>
+               <!-- PDF PAGE 95 -->payment of the foreſaid maintenance, ſhall be raiſit and direct at the inſtance of the ſaid Sir <hi>John Weemes</hi> and collectors aforeſaid againſt the ſub-col<g ref="char:EOLhyphen"/>lectors of Shires, Magiſtrates of Burrows, collectors of Pariſhes, Heretors, Fewers, Life-Renters, and o<g ref="char:EOLhyphen"/>thers adebted in payment of their ſeverall proportions of this maintenance now impoſed, with reſervation of the ſuſpenſions underwritten: And Ordains the ſaid ſub-Collectors, Collectors of Pariſhes, Heritors, Fewers, Life-Renters and others, ſo to be charged by the General Commiſſary, to have Letters of reliefe, as is Ordaind by the Act for the Taxt and Loan. And for the more ſpeedy ingatherin of the ſaids five moneths maintenance, at the terms of payment above written. The Generall Collector is hereby warranted, that if any Shire or Burgh be deficient in payment of their parts of this maintenance, at the times aforeſaid, he either imploy ſome of his own Troop, or any others of the Forces, that ſhall happen to be on the bounds for the time as he ſhall think fit, for uplifting of this mainenance from the deficient Shires, Burghs, and Pariſhes; and ilks Troopers are to receive their entertainment from the deficients, at the ordinary rates, beſides the payment of there maintence. And it is hereby Ordaind, that the Committes of War be aiding and aſsiſting to the Generall Commiſſary herein for inbringing of this maintenance.</p>
+            <p>And now the Eſtates of Parliament underſtanding by the report of the proceedings of the Commiſſio<g ref="char:EOLhyphen"/>ners, lately imployed, for trying of burnt and waſted lands, that the Shires and Burghs underwritten, are not able to make ready ane totall payment of the ſums
+<pb n="7" facs="tcp:153307:4"/>
+               <!-- PDF PAGE 95 -->impoſed on them for this maintenance: Therefore untill farder tryall be tane therein, the Parliament doth hereby ſuſpend the lifting of the particular ſummes underwritten, from the Shires and Burghs reſpective following, <hi>viz.</hi> From the Sheriffdom of <hi>Innernes,</hi> 666. l. 13. s. 4. d. From the Sheriffdom of <hi>Sutherland,</hi> 36. l. 13. s. 4. d. From the Sheriffdom of <hi>Nairne,</hi> 103. l. 6. s. 8. d. From the Sheriffdom of <hi>El<g ref="char:EOLhyphen"/>gine,</hi> 333. l. 6. s. 8. d. From the Sheriffdom of <hi>Aber<g ref="char:EOLhyphen"/>deen,</hi> 1333. l. 6. s. 8. d. From the Sheriffdom of <hi>Bamff,</hi> 318. l. From the Sheriffdom of <hi>Forfar</hi> 133. l. 6. s. 8. d. From the Sheriffdom of <hi>Pearth,</hi> 1333. l. 6. s. 8. d. From the Sheriffdom of <hi>Stirling,</hi> 133. l. 6. s. 8. d.</p>
+            <p>
+               <hi>Item,</hi> For the Burroughs, <hi>viz.</hi> From <hi>Pearth,</hi> 333. l. From <hi>Aberdeen,</hi> 666. l. 13. s. 4. d. From <hi>Stirling,</hi> 53 l. 6. s. 8. d. From <hi>Innernes,</hi> 450. l. From <hi>Brecchen,</hi> 120. l. From <hi>Elgine,</hi> 53. l. 6. s. 8. d. From <hi>Dumbartan,</hi> 54. l. 13. s. 4. d. From <hi>Tayne,</hi> 24. l. From <hi>Bamff,</hi> 72. l. From <hi>Forfar,</hi> 8. l. From <hi>Rothſay,</hi> 20. l. From <hi>Forres,</hi> 54. l. From <hi>Collein,</hi> 27. l. From <hi>Nairne,</hi> 36. l.</p>
+            <p>The Shires and Burghs always paying punctually the ſums, over and above what is ſuſpended, at the terms aforeſaid: And in regard of the preſent di<g ref="char:EOLhyphen"/>ſtreſſed condition of the Sheriffdoms of <hi>Argyle</hi> and <hi>Bute;</hi> The Eſtates do exeem the whole Sheriffdom of <hi>Argyle</hi> from all payment of the foreſaid five moneths maintenance: As alſo exeems the Sheriffdom of <hi>Bute</hi> from all payment of the equall half of the moneth<g ref="char:EOLhyphen"/>ly maintenance abovewritten, impoſed upon that Shire for the ſaids five moneths: And Ordain the ſame Shire of <hi>Bute</hi> to be onely liable in payment of the other half of the ſaid monethly maintenance for theſe five moneths: And declares the Ile of <hi>Ar<g ref="char:EOLhyphen"/>ram</hi>
+               <pb n="6" facs="tcp:153307:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 96 -->to be altogether free of any payment of that half, but the reſt of the Sheriffdom of <hi>Bute</hi> to pay the ſame.</p>
+            <p>And alſo, The Eſtates declares this preſent Act to be without prejudice of the Act granted in favours of the Town of <hi>Innernes</hi> of the 5. of <hi>January,</hi> 1647. That any Taxations or Impoſitions to be laid on that Town, be allowed to them in part of their loſſes, conform to the Tenor of the Act.</p>
+            <p>And for the ſums particularly above ſuſpended, That the Generall Commiſſary ſute no payment thereof before the laſt day of <hi>Auguſt</hi> next to come, that betwixt and that time it may be tried what part and portions of that ſuſpended maintenance may be raiſed of the Shires: And for tryall thereof, Ordains Commiſſions to be direct to ſuch perſons, as the Par<g ref="char:EOLhyphen"/>liament or Committee of Eſtates ſhall appoint, as the ſame ſhall be called for by theſe Shires and Burghs, in whoſe favours the ſuſpenſions are granted; and that be<g ref="char:EOLhyphen"/>twixt and the ſaid laſt day of <hi>Auguſt,</hi> the report of the ſaids Commiſsions be returned, that accordingly the ſuſpended maintenance may be either diſcharged, or called for. And in caſe of the not return of the re<g ref="char:EOLhyphen"/>port as ſaid is, the Commiſſary Generall is hereby warranted after the ſaid laſt day of <hi>Auguſt,</hi> to charge for the haill maintenance of theſe Shires, without con<g ref="char:EOLhyphen"/>ſideration of the ſuſpenſions.</p>
+            <p>And alſo it is Ordaind, that no Retention, Suſpen<g ref="char:EOLhyphen"/>ſion, or diſcharge of this preſent maintenance be granted for any cauſe, other nor is above written for burnt and waſted lands, excepting onely for quarter<g ref="char:EOLhyphen"/>ings and payments as aforeſaid; and ſuch Lands, Rents,
+<pb n="9" facs="tcp:153307:5"/>
+               <!-- PDF PAGE 96 -->Annual Rents, and other duties mortified to Col<g ref="char:EOLhyphen"/>ledges, Schools, Hoſpitals, Miniſters and School-ma<g ref="char:EOLhyphen"/>ſters ſtipends, and for upholding Kirks and Bridges, ilks mortifications are to be deduced in each Shire, but notwithſtanding, the Shire beſides to be liable in pay<g ref="char:EOLhyphen"/>ment of their whole maintenance: And that all other Heritors, Life Renters, Takiſmen, Titulars, propper Woodſetters, Pentioners, Conjunctfiears, Lady tercers and others, ſubject to the valuation within Shires and Burghs: ſhall be lyable to their proportionable part of this maintenance, notwithſtanding of any Act paſt, or to be paſt in their favours, other nor is above ſet down, or to be paſt by this preſent Parliament.</p>
+            <p>And in regard of this prorogating of the mainte<g ref="char:EOLhyphen"/>nance on the Shires and Burghs, for the five moneths above mentioned, <hi>viz.</hi> From the firſt of <hi>March</hi> laſt to the firſt of <hi>Auguſt</hi> next to come, at the full mainte<g ref="char:EOLhyphen"/>nance above written: It is Statute and Ordaind by the Eſtates of Parliament, that every debtor ſhall have retention from the Creditors of ane and a half of each eight, payable for annuall Rent, for the ſaids five mo<g ref="char:EOLhyphen"/>neths above ſpecified; ſo that the debtor ſhall only be liable in payment of ſix and a half of annuall Rent for each hundreth of ſtock for theſe five moneths: And becauſe the foreſaid monethly maintenance was only continued upon the Shires and Burghs, and payable by them, from the firſt of <hi>November</hi> laſt, to the ſaid firſt of <hi>March</hi> laſt, with deduction of ane third part of the ſaid maintenance during that ſpace: Therefore the Eſtates grants only retention to the debtors, of ane of each eight, payable for annuall Rent during the ſaid ſpace, from the ſaid firſt of <hi>Novemb.</hi> to the ſaid firſt of <hi>March,</hi>
+               <pb n="10" facs="tcp:153307:6"/>
+               <!-- PDF PAGE 97 -->during the ilk time the debtor ſhall onely be liable in payment of ſeven of annuall Rent, for each hundreth of ſtock; with this proviſion, that no debtor whatſo<g ref="char:EOLhyphen"/>ever ſhall have the foreſaid benefit of retention, who ſhall not pay his annuall Rent to the Creditor, within the ſpace of ane year after that ane preceding years an<g ref="char:EOLhyphen"/>nuall Rent is fully reſtand unpaid.</p>
+            <p>And farder it is provided, That what ever creditor ſhall take band, promiſe, or condition from his Deb<g ref="char:EOLhyphen"/>tor, for payment of the haill annuall Rent at 8: <hi>per Cen<g ref="char:EOLhyphen"/>tum,</hi> without retention of ane and a half for the hun<g ref="char:EOLhyphen"/>dreth, or ſhall not grant the retention aforeſaid; ſhall be conveened and cenſured as ane Uſurer; notwith<g ref="char:EOLhyphen"/>ſtanding of any ſuch paction by word or writ.</p>
+            <p>And laſtly, It is Ordained that no ſuſpenſion be granted without conſignation, as is appointed by Act of maintenance of the 27. of <hi>February</hi> 1645. And that all Heritors within Burgh and Pendicles, and Liberties thereof (including for <hi>Edinburgh</hi> as Pendicles of the ſame, the houſes Tenements and Yairds in <hi>Leith, Can<g ref="char:EOLhyphen"/>nogate</hi> and pleaſands, whereof the Town is either Pro<g ref="char:EOLhyphen"/>prietars or Superiors; and for the other Burrows, all that have been in uſe to be taxed with them) ſhall con<g ref="char:EOLhyphen"/>tribute with them for payment of the Maintenance, as is mentioned in the ſaid Act of the 27. of <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> 1645.</p>
+            <p>And laſt, to the end that the payment of this main<g ref="char:EOLhyphen"/>tenance be alſo equall and proportionable as can be: The Parliament Ordains the valuers of the ſeverall Shires already named by Parliament or Committee of Eſtates, to meet, reviſe, and rectifie the valuation in the Shires: Provided alwayes, that notwithſtanding of this tryall, the Shires be liable in payment to the generall
+<pb n="11" facs="tcp:153307:6"/>
+               <!-- PDF PAGE 97 -->Commiſſar of the whole ſums above written laid on them by this Act.</p>
+            <p>And Ordains, that the Lands and Teinds ſhall pay the foreſaid Maintenance, as they lie locally in Shires or Burghs, conform to the former Acts of mainte<g ref="char:EOLhyphen"/>nance. And it is hereby declared, that this Act is to be without prejudice of the Priviledges of the Lords of Seſsion conform to former Acts of maintenance. And Ordains this Act to be printed, and the former Act of Loane and Taxt to be re-printed and publiſhed, and gives hereby Warrant to the Clerk of Regiſter for that effect.</p>
+            <closer>
+               <signed>
+                  <hi>Alex. Gibſon,</hi> Cler. Regiſt.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153307:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+         </div>
+      </body>
+   </text>
+</TEI>
